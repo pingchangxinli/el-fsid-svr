@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>RFID标签更换</title>
+  <link rel="stylesheet" href="https://unpkg.com/tachyons/css/tachyons.min.css">
+</head>
+<body class="w-100 sans-serif">
+<main class="bg-white black-70">
+  <div class="ph3 ph5-ns">
+    <h4 class="f6 mb2">RFID标签更换</h4>
+  </div>
+  <section class="cf w-100 f6">
+    <form id="rfid-form">
+      <div class="mw9 center ph3-ns">
+        <div class="ph2-ns">
+          <div class="fl w-70 pa2">
+            <div class="outline bg-white">
+              <div class="pa1">
+                <div class="overflow-auto">
+                  <table class="f6 w-100 mw8 center" cellspacing="0">
+                    <tbody class="lh-copy">
+                    <tr>
+                      <td class="pv3 pr3 bb b--black-20">原TID</td>
+                      <td class="pv3 pr3 bb b--black-20"><input type="text" id="original-tid" name="originalTid"
+                                                                readonly></td>
+                      <td class="pv3 pr3 bb b--black-20">TID_ID</td>
+                      <td class="pv3 pr3 bb b--black-20"><input type="text" id="tid-id" name="tidId" readonly></td>
+                      <td class="pv3 pr3 bb b--black-20">EPC</td>
+                      <td class="pv3 pr3 bb b--black-20"><input type="text" id="epc" readonly></td>
+                    </tr>
+                    <tr>
+                      <td class="pv3 pr3 bb b--black-20">注册证号</td>
+                      <td class="pv3 pr3 bb b--black-20"><input type="text" id="registration-code"></td>
+                      <td class="pv3 pr3 bb b--black-20">商品编码</td>
+                      <td class="pv3 pr3 bb b--black-20"><input type="text" id="item-code"></td>
+                      <td class="pv3 pr3 bb b--black-20">物料编码</td>
+                      <td class="pv3 pr3 bb b--black-20"><input type="text" id="materiel-code"></td>
+                    </tr>
+                    <tr>
+                      <td class="pv3 pr3 bb b--black-20">批号LOT</td>
+                      <td class="pv3 pr3 bb b--black-20"><input type="text" id="lot"></td>
+                      <td class="pv3 pr3 bb b--black-20">商品描述</td>
+                      <td class="pv3 pr3 bb b--black-20"><input type="text" id=""></td>
+                      <td class="pv3 pr3 bb b--black-20">规格型号</td>
+                      <td class="pv3 pr3 bb b--black-20"><input type="text" id="materiel-specfications"></td>
+                    </tr>
+                    <tr>
+                      <td class="pv3 pr3   b--black-20">失效日期</td>
+                      <td class="pv3 pr3   b--black-20"><input type="text" id="expiry-date"></td>
+                      <td id="button-td" colspan="3">
+                        <el-button-open></el-button-open>
+                        <el-button-read></el-button-read>
+                        <el-button-update></el-button-update>
+                        <el-button-close></el-button-close>
+                      </td>
+                    </tr>
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+
+            </div>
+          </div>
+          <div class="outline fl w-30 pa2">
+            <table class="f6 w-100 mw8 center" cellspacing="0">
+              <tr>
+                <td class="pv3 pr3 bb b--black-20">EPC</td>
+                <td class="pv3 pr3 bb b--black-20"><input type="text" id="sigle-epc" name="epc"
+                                                          value="3015157FB01B58400000272B"></td>
+              </tr>
+              <tr>
+                <td class="pv3 pr3 bb b--black-20">新TID</td>
+                <td class="pv3 pr3 bb b--black-20"><input type="text" id="sigle-tid" name="tid"
+                                                          value="E280110520007B49FAA608D6"></td>
+              </tr>
+              <tr>
+                <td class="pv3 pr3 bb b--black-20">用户数据</td>
+                <td class="pv3 pr3 bb b--black-20"><input type="text" id="new-user-data"></td>
+              </tr>
+              <tr>
+                <td class="pv3 pr3  b--black-20">状态</td>
+                <td class="pv3 pr3  b--black-20"><input type="text" id="new-status"></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+      </div>
+    </form>
+  </section>
+</main>
+<div class="pa4" id="record-result">
+  <div class="outline bg-white pv2 overflow-auto">
+    <table class="f6 w-100 center" cellspacing="0">
+      <thead>
+      <tr class="stripe-dark">
+        <th class="fw6 tl pa3 bg-white">商品编码</th>
+        <th class="fw6 tl pa3 bg-white">物料编码</th>
+        <th class="fw6 tl pa3 bg-white">商品描述</th>
+        <th class="fw6 tl pa3 bg-white">规格型号</th>
+        <th class="fw6 tl pa3 bg-white">批号LOT</th>
+        <th class="fw6 tl pa3 bg-white">TID</th>
+        <th class="fw6 tl pa3 bg-white">TID_ID</th>
+        <th class="fw6 tl pa3 bg-white">注册证号</th>
+      </tr>
+      </thead>
+      <tbody class="lh-copy">
+      </tbody>
+    </table>
+  </div>
+</div>
+<script src="../jspm_packages/system.js"></script>
+<script src="../config.js"></script>
+<script src="./rfid-util.js"></script>
+<script>System.import('./rfid-replace.js')</script>
+</body>
+</html>

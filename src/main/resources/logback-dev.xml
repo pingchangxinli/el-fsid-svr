@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<included>
+
+    <appender name="LOG_FILE"
+              class="ch.qos.logback.core.FileAppender">
+        <encoder>
+            <pattern>${FILE_LOG_PATTERN}</pattern>
+        </encoder>
+        <file>${LOG_FILE}.log</file>
+        <append>false</append>
+    </appender>
+
+    <appender name="PLAN_LOG_FILE"
+              class="ch.qos.logback.core.FileAppender">
+        <encoder>
+            <pattern>${FILE_LOG_PATTERN}</pattern>
+        </encoder>
+        <file>${LOG_FILE}.plan.log</file>
+        <append>false</append>
+    </appender>
+
+    <logger name="com.el.core.scheduling" additivity="false" level="DEBUG">
+        <appender-ref ref="PLAN_LOG_FILE"/>
+    </logger>
+    <logger name="com.el.demo.scheduling" additivity="false" level="DEBUG">
+        <appender-ref ref="PLAN_LOG_FILE"/>
+    </logger>
+
+    <!--<logger name="org.mongodb" level="DEBUG"/>-->
+    <!--<logger name="org.apache.shiro" level="DEBUG"/>-->
+    <!--<logger name="org.springframework" level="DEBUG"/>-->
+    <!--<logger name="org.springframework.web.socket.sockjs" level="DEBUG"/>-->
+
+    <logger name="com.el.core" level="INFO"/>
+    <!--<logger name="com.el.demo" level="DEBUG"/>-->
+    <logger name="com.el.rfid" level="DEBUG"/>
+    <root level="DEBUG">
+        <appender-ref ref="CONSOLE"/>
+        <appender-ref ref="LOG_FILE"/>
+    </root>
+
+</included>

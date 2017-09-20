@@ -1,0 +1,1 @@
+module.exports = require("npm:element-ui@1.2.9/lib/element-ui.common.js");

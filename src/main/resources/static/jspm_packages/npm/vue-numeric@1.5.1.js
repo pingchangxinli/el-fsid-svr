@@ -1,0 +1,1 @@
+module.exports = require("npm:vue-numeric@1.5.1/src/vue-numeric.vue");

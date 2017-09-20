@@ -1,0 +1,35 @@
+<el-card>
+  <div slot="header" class="clearfix">
+    <ul class="api_headers">
+      <li>
+        <ApiHeader method="POST" :api="repoUri + '/store'"></ApiHeader>
+      </li>
+      <li>
+        <ApiHeader method="GET" :api="repoUri + '/files'"></ApiHeader>
+      </li>
+      <li>
+        <ApiHeader method="GET" :api="repoUri + '/files/{file}'"></ApiHeader>
+      </li>
+      <li>
+        <ApiHeader method="GET" :api="repoUri + '/files/{file}/preview'" :strike="true"
+                   notice="(depends on back-end config: `storage.preview.converter`.)"></ApiHeader>
+      </li>
+      <li>
+        <ApiHeader method="POST" :api="repoUri + '/files/{file}/erase'"></ApiHeader>
+      </li>
+    </ul>
+  </div>
+  <el-form label-width="80px">
+    <el-form-item label="repo">
+      <el-input v-model="repo" name="repo"></el-input>
+    </el-form-item>
+    <el-form-item>
+      <el-upload :multiple="true" :action="uploadAction"
+                 :with-credentials="true" :headers="uploadHeaders"
+                 :on-preview="openFiles" :on-remove="eraseFile" :file-list="files">
+        <el-button size="small" type="primary">点击上传</el-button>
+        <div slot="tip" class="el-upload__tip">文件大小不能超过20MB</div>
+      </el-upload>
+    </el-form-item>
+  </el-form>
+</el-card>

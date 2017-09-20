@@ -1,0 +1,6 @@
+# Spring Boot Dev Server
+server:
+  port: 9000
+#  context-path: /rfid
+  session:
+    timeout: 300 # 会话超时=5m (default is 30m)

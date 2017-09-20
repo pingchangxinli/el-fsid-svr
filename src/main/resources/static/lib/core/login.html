@@ -1,0 +1,36 @@
+<el-card>
+  <div slot="header" class="clearfix">
+    <ul class="api_headers">
+      <li>
+        <ApiHeader method="POST" api="/login"></ApiHeader>
+      </li>
+      <li>
+        <ApiHeader method="POST" api="/logout"></ApiHeader>
+      </li>
+      <li>
+        <ApiHeader method="GET" api="/principal"></ApiHeader>
+      </li>
+    </ul>
+  </div>
+  <el-form v-model="form" label-width="80px">
+    <div v-if="!user">
+      <el-form-item label="login_no">
+        <el-input v-model="form.login_no" name="login_no"></el-input>
+      </el-form-item>
+      <el-form-item label="password">
+        <el-input v-model="form.password" type="password" name="password"></el-input>
+      </el-form-item>
+      <el-form-item label="captcha">
+        <el-input v-model="form.captcha" name="captcha" style="width: 50%;"></el-input>
+        <img ref="captcha" @click="refreshCaptcha" class="captcha" style="margin-bottom: -12px;"/>
+      </el-form-item>
+    </div>
+    <el-form-item>
+      <el-button @click="login" v-if="!user">login</el-button>
+      <span class="mr3" v-if="user">登录用户：{{ user.id }} / {{ user.role }}</span>
+      <el-button @click="logout" v-if="user">logout</el-button>
+      <el-button @click="principal">principal</el-button>
+      <el-button @click="home">home</el-button>
+    </el-form-item>
+  </el-form>
+</el-card>

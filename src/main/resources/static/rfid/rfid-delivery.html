@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>RFID标签发货</title>
+  <link rel="stylesheet" href="https://unpkg.com/tachyons/css/tachyons.min.css">
+</head>
+<body>
+<main class="bg-white black-70">
+  <div class="ph3 ph5-ns">
+    <h4 class="f6 mb2">RFID标签发货</h4>
+  </div>
+  <section class="cf w-100 f6">
+    <div class="ph2-ns">
+      <div class="fl w-100 pa1">
+        <div class="outline bg-white">
+          <form id="record-form">
+            <fieldset id="sign_up" class="ba b--transparent ph0 mh0">
+              <div class="mt3">
+                <label class="di fw6 lh-copy f6 w-10 ma0">销售订单</label>
+                <input class="pa1 input-reset ba bg-transparent w-10 mb2" id="order-id" value="17003047" name="orderId">
+                <input class="pa1 input-reset ba bg-transparent w-10" id="order-type" value="SO" name="orderType">
+                <input class="pa1 input-reset ba bg-transparent w-10" id="company-code" value="00102"
+                       name="companyCode"><br>
+                <label class="di fw6 lh-copy f6 w-10">商品编码</label>
+                <input class="pa1 input-reset ba bg-transparent w-10" id="item-code" name="itemCode">
+                <label class="di fw6 lh-copy f6 w-10">客户号</label>
+                <input class="pa1 input-reset ba bg-transparent w-10" id="customer-code" name="customerCode"> <br>
+              </div>
+            </fieldset>
+            <div id="button-div" class="mb1">
+              <el-button-query></el-button-query>
+              <el-button-detail></el-button-detail>
+              <el-button-delivery></el-button-delivery>
+            </div>
+          </form>
+        </div>
+
+      </div>
+    </div>
+  </section>
+</main>
+
+<div class="pa4" id="delivery-result">
+
+
+</div>
+<script src="../jspm_packages/system.js"></script>
+<script src="../config.js"></script>
+<script>System.import('./rfid-delivery.js')</script>
+</body>
+</html>

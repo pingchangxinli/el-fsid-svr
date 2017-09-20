@@ -1,0 +1,37 @@
+<el-card>
+  <div slot="header" class="clearfix">
+    <ul class="api_headers">
+      <li>
+        <ApiHeader method="GET" api="/demo/"></ApiHeader>
+      </li>
+      <li>
+        <ApiHeader method="GET" api="/demo/dp"></ApiHeader>
+      </li>
+    </ul>
+  </div>
+  <el-form v-model="form" label-width="80px">
+    <el-form-item label="keyword">
+      <el-input v-model="form.keyword"></el-input>
+    </el-form-item>
+    <el-form-item label="since/clock">
+      <el-date-picker type="date" v-model="form.since"></el-date-picker>
+      <el-time-select type="time" v-model="form.clock"></el-time-select>
+    </el-form-item>
+    <el-form-item label="offset/limit">
+      <el-input-number v-model="form.offset" :min="0"></el-input-number>
+      <el-input-number v-model="form.limit" :min="10" :step="10" :max="50"></el-input-number>
+    </el-form-item>
+    <el-form-item label="sortBy">
+      <el-select v-model="form.sortBy" clearable>
+        <el-option v-for="item in sortable" :key="item" :value="item"></el-option>
+      </el-select>
+      <el-checkbox v-model="form.sortDirection"
+                   true-label="ASC" false-label="DESC">{{ form.sortDirection }}
+      </el-checkbox>
+    </el-form-item>
+    <el-form-item>
+      <el-button @click="hello">hello</el-button>
+      <el-button @click="query">query (authc)</el-button>
+    </el-form-item>
+  </el-form>
+</el-card>

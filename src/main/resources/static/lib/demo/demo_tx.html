@@ -1,0 +1,23 @@
+<el-card>
+  <div slot="header" class="clearfix">
+    <ul class="api_headers">
+      <li>
+        <ApiHeader method="POST" api="/demo/tx"></ApiHeader>
+      </li>
+    </ul>
+  </div>
+  <el-form v-model="form" label-width="80px">
+    <el-form-item label="subject">
+      <el-input v-model="form.subject"></el-input>
+    </el-form-item>
+    <el-form-item label="content">
+      <el-input v-model="form.content" type="textarea"></el-input>
+    </el-form-item>
+    <el-form-item label="content">
+      <dec-input v-model="form.cost" precision="2" style="max-width: 10rem;"></dec-input>
+    </el-form-item>
+    <el-form-item>
+      <el-button @click="post">post (authc)</el-button>
+    </el-form-item>
+  </el-form>
+</el-card>

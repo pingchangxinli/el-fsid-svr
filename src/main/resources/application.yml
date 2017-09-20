@@ -1,0 +1,105 @@
+# @see http://docs.spring.io/spring-boot/docs/current/reference/html/common-application-properties.html
+
+# Spring Boot
+spring:
+  profiles:
+    active: ${FSID_APP_PROFILE}
+    include: demo,demo-cfg
+  http:
+    multipart:
+#      location: /tmp
+      maxFileSize: 20Mb
+      maxRequestSize: 21Mb
+      fileSizeThreshold: 1Mb
+  mail:
+    host: 192.168.0.142
+      # 生产／测试环境必须开启，以确保邮件服务可用
+  #    testConnection: true
+  #    defaultEncoding: UTF-8
+  #    username:
+  #    password:
+  #    protocol: smtp
+  #    properties.mail.smtp:
+  #      auth: true
+  #      starttls.enable: true
+  redis:
+      url: redis://redis:foobared@192.168.203.132:6379
+      timeout: 10000
+      pool:
+        max-active: 8
+# JDBC & Pool
+# jde 数据库的数据源
+jde:
+  jdbc:
+    driverClassName: oracle.jdbc.OracleDriver
+    url: jdbc:oracle:thin:@//10.17.9.234:1521/JDETESTDB
+    username: ELJAVA
+    password: ELJAVA
+    maxActive: 20
+# rfid 数据库的数据源
+rfid:
+  jdbc:
+    driverClassName: oracle.jdbc.OracleDriver
+    url: jdbc:oracle:thin:@10.17.9.200:1521/rfidmiddle
+    username: RFIDADMIN
+    password: RFIDADMIN
+    maxActive: 20
+# 消息推送
+# 消息推送
+messaging:
+  # 站内消息推送(by WebSocket)
+  pusher:
+    # 预估在线用户数
+    hotUsers: 10
+    # websocket endpoint
+    endpoint: /ws
+#    # allowed origin
+#    allowed: http://www.eaglemetalware.com/elxxx/
+  # 系统邮件通知
+  mailer:
+    # 系统管理员邮箱
+    sender: admin@elitesland.com
+    subject: '[XXX] 系统通知'
+
+# 文件存储
+storage:
+  # 存储的根路经
+  location: build/upload
+#  # 文件预览
+#  preview:
+#    # 用于生成预览PDF文件的工具
+#    converter: /opt/bin/convert.sh
+#    # 预览PDF文件防拷贝密码
+#    secureCode: Dev.1234
+
+# Ops (by Spring Actuator)
+management:
+  # 安全服务开关: 生产环境开启
+  security.enabled: false
+endpoints:
+  # 应用日志路经
+  logview.path: ${CATALINA_HOME}/logs/fsid/
+
+# App
+webApp:
+  # 应用版本: 每次发布时调整
+  version: v1.0.0
+
+  # 服务程序 ID
+  progId: EL_FSID
+  # 服务节点 ID
+  nodeId: ${FSID_SVR_ID}
+
+  # 跨域许可
+  cors: true
+
+  # 计划任务开关: 开发环境建议关闭
+  sched: true
+
+  # 安全检查开关（防重复POST请求、防CSRF）: 生产/测试环境必须开启
+  secure: true
+  # 开发调试开关（给出debug参数时可跳过防CSRF检查）: 生产环境必须关闭、测试环境建议关闭
+  debug: true
+
+  # 压力测试开关（可以关闭防重复POST请求、防CSRF及验证码检查）: 仅压测时开启
+  bench: false

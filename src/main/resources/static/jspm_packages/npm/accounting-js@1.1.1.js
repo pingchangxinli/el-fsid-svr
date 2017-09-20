@@ -1,0 +1,1 @@
+module.exports = require("npm:accounting-js@1.1.1/dist/accounting.umd.js");

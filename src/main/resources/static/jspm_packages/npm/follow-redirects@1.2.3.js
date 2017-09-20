@@ -1,0 +1,1 @@
+module.exports = require("npm:follow-redirects@1.2.3/index.js");

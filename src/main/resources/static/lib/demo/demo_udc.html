@@ -1,0 +1,48 @@
+<el-card>
+  <div slot="header" class="clearfix">
+    <ul class="api_headers">
+      <li>
+        <ApiHeader method="GET " api="/demo/udcs/all"></ApiHeader>
+      </li>
+      <li>
+        <ApiHeader method="GET " api="/demo/udcs/udc/{udc}"></ApiHeader>
+      </li>
+      <li>
+        <ApiHeader method="POST" api="/demo/udcs/udc/{udc}/evict"></ApiHeader>
+      </li>
+      <li>
+        <ApiHeader method="POST" api="/demo/udcs/store"></ApiHeader>
+      </li>
+      <li>
+        <ApiHeader method="POST" api="/demo/udcs/evict"></ApiHeader>
+      </li>
+    </ul>
+  </div>
+  <el-form label-width="80px">
+    <el-form-item label="udc">
+      <el-select v-model="udc" filterable clearable placeholder="请选择" @change="loadUdc">
+        <el-option v-for="udc in all" :key="udc.code"
+                   :label="udc.name" :value="udc.code"></el-option>
+      </el-select>
+    </el-form-item>
+    <el-form-item label="udcItems">
+      <el-table :data="udcItems" style="width: 100%;" border>
+        <el-table-column prop="code" label="编码" width="193"></el-table-column>
+        <el-table-column prop="name" label="说明"></el-table-column>
+      </el-table>
+    </el-form-item>
+    <el-form-item>
+      <el-button @click="storeUdc" :disabled="!udc">storeUdc</el-button>
+      <el-button @click="evictUdc" :disabled="!udc">evictUdc</el-button>
+      <el-button @click="evictAll">evictAll</el-button>
+    </el-form-item>
+    <el-form-item>
+      <el-button @click="sampleItems">sample items</el-button>
+      <el-button @click="sampleItemsWithUdcNames">sample items with udc names</el-button>
+    </el-form-item>
+  </el-form>
+  <el-card>
+    <div slot="header" class="clearfix">storeUdc's payload or sample items</div>
+    <SrcBlock lang="json" :src="src"></SrcBlock>
+  </el-card>
+</el-card>

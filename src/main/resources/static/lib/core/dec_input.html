@@ -1,0 +1,13 @@
+<div class="el-input">
+  <input
+    class="el-input__inner"
+    :placeholder="placeholder"
+    :value="value"
+    @blur="formatValue(amountValue)"
+    @input="processValue(amountValue)"
+    @focus="convertToNumber"
+    ref="numeric"
+    type="tel"
+    v-model="amount"
+  />
+</div>

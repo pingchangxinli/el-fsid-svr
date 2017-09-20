@@ -1,0 +1,1 @@
+module.exports = require("npm:vue-router@2.5.2/dist/vue-router.common.js");

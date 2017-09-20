@@ -1,0 +1,1 @@
+module.exports = require("npm:babel-helper-vue-jsx-merge-props@2.0.2/index.js");

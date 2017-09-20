@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>RFID标签查询</title>
+  <link rel="stylesheet" href="https://unpkg.com/tachyons/css/tachyons.min.css">
+</head>
+<body class="w-100 sans-serif">
+<main class="bg-white black-70">
+  <div class="ph3 ph5-ns">
+    <h4 class="f6 mb2">RFID标签查询</h4>
+  </div>
+  <section class="cf w-100 f6">
+    <div class="mw9 center ph3-ns">
+      <div class="ph2-ns">
+        <div class="fl w-100 pa2">
+          <div class="outline bg-white">
+            <main class="pa1 black-80">
+              <form class="left" id="record-form">
+                <fieldset id="sign_up" class="ba b--transparent ph0 mh0">
+                  <div class="mt3">
+                    <label class="di fw6 lh-copy f6 w-10">商品编码</label>
+                    <input class="pa2 input-reset ba bg-transparent w-10" id="item-code" value="10002130">
+                    <label class="di fw6 lh-copy f6 w-10">物料编码</label>
+                    <input class="pa2 input-reset ba bg-transparent w-10" id="materiel-code">
+                    <label class="di fw6 lh-copy f6 w-10">公司</label>
+                    <input class="pa2 input-reset ba bg-transparent w-10" id="company">
+                    <label class="di fw6 lh-copy f6 w-10">批号LOT</label>
+                    <input class="pa2 input-reset ba bg-transparent w-10" id="item-lot">
+                  </div>
+                </fieldset>
+                <div id="button-div">
+                  <el-button-query></el-button-query>
+                  <el-button-update></el-button-update>
+                  <el-button-cancel></el-button-cancel>
+                </div>
+              </form>
+            </main>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<div class="pa4" id="record-result">
+  <div class="outline bg-white pv2 overflow-auto">
+    <form>
+      <table class="f6 w-100 center" cellspacing="0">
+        <thead>
+        <tr class="stripe-dark">
+          <th class="fw6 tl pa3 bg-white">选择</th>
+          <th class="fw6 tl pa3 bg-white">状态</th>
+          <th class="fw6 tl pa3 bg-white">公司</th>
+          <th class="fw6 tl pa3 bg-white">商品编码</th>
+          <th class="fw6 tl pa3 bg-white">物料编码</th>
+          <th class="fw6 tl pa3 bg-white">商品描述</th>
+          <th class="fw6 tl pa3 bg-white">规格型号</th>
+          <th class="fw6 tl pa3 bg-white">批号LOT</th>
+          <th class="fw6 tl pa3 bg-white">批次号</th>
+          <th class="fw6 tl pa3 bg-white">TID</th>
+          <th class="fw6 tl pa3 bg-white">TID_ID</th>
+          <th class="fw6 tl pa3 bg-white">注册证号</th>
+        </tr>
+        </thead>
+        <tbody class="lh-copy">
+        </tbody>
+      </table>
+    </form>
+  </div>
+</div>
+<script src="../jspm_packages/system.js"></script>
+<script src="../config.js"></script>
+<script>System.import('./rfid-record.js')</script>
+</body>
+</html>

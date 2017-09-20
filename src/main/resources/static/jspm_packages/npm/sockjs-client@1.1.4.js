@@ -1,0 +1,1 @@
+module.exports = require("npm:sockjs-client@1.1.4/lib/entry.js");

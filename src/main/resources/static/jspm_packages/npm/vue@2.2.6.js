@@ -1,0 +1,1 @@
+module.exports = require("npm:vue@2.2.6/dist/vue.runtime.common.js");

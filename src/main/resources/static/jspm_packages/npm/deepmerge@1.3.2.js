@@ -1,0 +1,1 @@
+module.exports = require("npm:deepmerge@1.3.2/index");

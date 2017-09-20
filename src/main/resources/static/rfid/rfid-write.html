@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://unpkg.com/tachyons/css/tachyons.min.css">
+  <title>RFID标签制作</title>
+</head>
+<body>
+<form id="rfid-form">
+  <div class="mw9 center ph3-ns">
+    <div class="cf ph2-ns">
+      <div class="fl w-100 w-70-ns pa1">
+        <div class="outline bg-white">
+          <table class="f6 w-100 mw8 center" cellspacing="0">
+            <tbody class="lh-copy">
+            <tr>
+              <td class="pv1 pr1 bb b--black-20">单号</td>
+              <td class="pv1 pr1 bb b--black-20">
+                <input id="record-num" class="input-reset ba b--black-20 pa1 mb1 db w-100" type="text">
+              </td>
+              <td class="pv1 pr1 bb b--black-20">日期</td>
+              <td class="pv1 pr1 bb b--black-20">
+                <input id="record-date" name="rfidCreateDate" class="input-reset ba b--black-20 pa1 mb1 db w-100"
+                       type="text" value="2017-01-01">
+              </td>
+              <td class="pv1 pr1 bb b--black-20">制单人</td>
+              <td class="pv1 pr1 bb b--black-20">
+                <input name="operator" type="hidden" value="1111">
+                <input id="record-name" name="operatorName" class="input-reset ba b--black-20 pa1 mb1 db w-100"
+                       type="text" value="测试">
+              </td>
+              <td class="pv1 pr1 bb b--black-20">制单日期</td>
+              <td class="pv1 pr1 bb b--black-20">
+                <input id="record-time" class="input-reset ba b--black-20 pa1 mb1 db w-100" type="text"
+                       value="2017-01-01 12:30:59">
+              </td>
+            </tr>
+            </tbody>
+          </table>
+        </div>
+        <div class="outline bg-white">
+          <table class="f6 w-100 mw8 center" cellspacing="0">
+            <tbody class="lh-copy" id="t-content">
+            <tr>
+              <td class="pv1 pr1 bb b--black-20">第一条码</td>
+              <td class="pv1 pr1 bb b--black-20">
+                <el-first-code></el-first-code>
+              </td>
+              <td class="pv1 pr1 bb b--black-20">物料编码</td>
+              <td class="pv1 pr1 bb b--black-20">
+                <input id="materiel-code" class="input-reset ba b--black-20 pa1 mb1 db w-100" type="text">
+              </td>
+              <td class="pv1 pr1 bb b--black-20">商品编码</td>
+              <td class="pv1 pr1 bb b--black-20">
+                <input id="item-code" class="input-reset ba b--black-20 pa1 mb1 db w-100" type="text">
+              </td>
+              <td class="pv1 pr1 bb b--black-20">失效日期</td>
+              <td class="pv1 pr1 bb b--black-20">
+                <input id="expiry-date" class="input-reset ba b--black-20 pa1 mb1 db w-100" type="text">
+              </td>
+            </tr>
+            <tr>
+              <td class="pv1 pr1 bb b--black-20">第二条码</td>
+              <td class="pv1 pr1 bb b--black-20">
+                <el-second-code></el-second-code>
+
+              </td>
+              <td class="pv1 pr1 bb b--black-20">批号</td>
+              <td class="pv1 pr1 bb b--black-20">
+                <input id="item-lot" class="input-reset ba b--black-20 pa1 mb1 db w-100" type="text">
+              </td>
+              <td class="pv1 pr1 bb b--black-20">商品名称</td>
+              <td class="pv1 pr1 bb b--black-20">
+                <input id="materiel-name" class="input-reset ba b--black-20 pa1 mb1 db w-100" type="text">
+              </td>
+              <td class="pv1 pr1 bb b--black-20">规格型号</td>
+              <td class="pv1 pr1 bb b--black-20">
+                <input id="materiel-specifications" class="input-reset ba b--black-20 pa1 mb1 db w-100" type="text">
+              </td>
+            </tr>
+            <tr>
+              <td class="pv1 pr1 bb b--black-20">第三条码</td>
+              <td class="pv1 pr1 bb b--black-20">
+                <input id="third-code" class="input-reset ba b--black-20 pa1 mb1 db w-100" type="text">
+              </td>
+              <td class="pv1 pr1 bb b--black-20">序列号</td>
+              <td class="pv1 pr1 bb b--black-20">
+                <input id="name" class="input-reset ba b--black-20 pa1 mb1 db w-100" type="text">
+              </td>
+              <td class="pv1 pr1 bb b--black-20">生产许可证有效期</td>
+              <td class="pv1 pr1 bb b--black-20">
+                <input id="name" class="input-reset ba b--black-20 pa1 mb1 db w-100" type="text">
+              </td>
+              <td class="pv1 pr1 bb b--black-20">生产日期</td>
+              <td class="pv1 pr1 bb b--black-20">
+                <input id="create-date" class="input-reset ba b--black-20 pa1 mb1 db w-100" type="text">
+              </td>
+            </tr>
+            <tr>
+              <td class="pv1 pr1 bb b--black-20">注册证号</td>
+              <td class="pv1 pr1 bb b--black-20" id="registration-code-parent">
+                <el-registration-code></el-registration-code>
+              </td>
+              <td class="pv1 pr1 bb b--black-20">注册证有效期</td>
+              <td class="pv1 pr1 bb b--black-20" id="registration-date-parent">
+                <input id="registration-date" class="input-reset ba b--black-20 pa1 mb1 db w-100" type="text">
+              </td>
+              <td class="pv1 pr1 bb b--black-20">GTIN</td>
+              <td class="pv1 pr1 bb b--black-20">
+                <input id="item-gtin" class="input-reset ba b--black-20 pa1 mb1 db w-100" type="text">
+              </td>
+            </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+      <div class="fl w-100 w-30-ns pa1">
+        <div class="outline bg-white">
+          <table class="f6 w-100 mw8 center" cellspacing="0">
+            <tbody class="lh-copy">
+            <tr>
+              <td class="pv1 pr1 bb b--black-20">EPC</td>
+              <td class="pv1 pr1 bb b--black-20">
+                <input id="single-epc" class="input-reset ba b--black-20 pa1 mb1 db w-100" type="text">
+              </td>
+            </tr>
+            <tr>
+              <td class="pv1 pr1 bb b--black-20">TID</td>
+              <td class="pv1 pr1 bb b--black-20">
+                <input id="single-tid" class="input-reset ba b--black-20 pa1 mb1 db w-100" type="text">
+              </td>
+            </tr>
+            <tr>
+              <td class="pv1 pr1 bb b--black-20">用户数据</td>
+              <td class="pv1 pr1 bb b--black-20">
+                <input id="name" class="input-reset ba b--black-20 pa1 mb1 db w-100" type="text">
+              </td>
+            </tr>
+            <tr>
+              <td class="pv1 pr1 bb b--black-20">累计制作</td>
+              <td class="pv1 pr1 bb b--black-20">
+                <input id="name" class="input-reset ba b--black-20 pa1 mb1 db w-100" type="text">
+              </td>
+            </tr>
+            </tbody>
+          </table>
+        </div>
+        <div class="outline bg-white" id="button-div">
+          <el-open-rfid></el-open-rfid>
+          <el-close-rfid></el-close-rfid>
+          <el-read-rfid></el-read-rfid>
+          <el-write-rfid></el-write-rfid>
+          <el-submit-rfid></el-submit-rfid>
+          <!--<a class="f6 link dim ba ph3 pv2 ma2 mb2 dib dark-gray" href="#0">保存</a>-->
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="mw9 center ph3-ns">
+    <div class="cf ph2-ns">
+      <div class="fl w-100 pa1">
+        <div class="outline bg-white pv2 overflow-auto">
+          <table class="f6 w-100 center" cellspacing="0" id="detail_table">
+            <thead>
+            <tr>
+              <th class="fw6 bb b--black-20 tc pb3 pr1 bg-white">序号</th>
+              <th class="fw6 bb b--black-20 tc pb3 pr1 bg-white">物料编码</th>
+              <th class="fw6 bb b--black-20 tc pb3 pr1 bg-white">批号</th>
+              <th class="fw6 bb b--black-20 tc pb3 pr1 bg-white">生产日期</th>
+              <th class="fw6 bb b--black-20 tc pb3 pr1 bg-white">失效日期</th>
+              <th class="fw6 bb b--black-20 tc pb3 pr1 bg-white">GTIN</th>
+              <th class="fw6 bb b--black-20 tc pb3 pr1 bg-white">EPC</th>
+              <th class="fw6 bb b--black-20 tc pb3 pr1 bg-white">TID</th>
+              <th class="fw6 bb b--black-20 tc pb3 pr1 bg-white">商品编码</th>
+              <th class="fw6 bb b--black-20 tc pb3 pr1 bg-white">型号规则</th>
+              <th class="fw6 bb b--black-20 tc pb3 pr1 bg-white">注册证号</th>
+              <th class="fw6 bb b--black-20 tc pb3 pr1 bg-white">证有效期</th>
+              <th class="fw6 bb b--black-20 tc pb3 pr1 bg-white">第一条码</th>
+              <th class="fw6 bb b--black-20 tc pb3 pr1 bg-white">第二条码</th>
+              <th class="fw6 bb b--black-20 tc pb3 pr1 bg-white">第三条码</th>
+            </tr>
+            </thead>
+            <tbody class="lh-copy">
+            </tbody>
+            <!--<input type="hidden" name="operator" value="1111">-->
+            <!--<input type="hidden" name="operatorName" value="22222">-->
+          </table>
+
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="pa4">
+    <div class="overflow-auto">
+
+    </div>
+  </div>
+</form>
+<!--<script src="../jquery-3.2.1.min.js"></script>-->
+<script src="../jspm_packages/system.js"></script>
+<script src="../config.js"></script>
+<script src="./rfid-util.js"></script>
+<script>System.import('./rfid-write.js')</script>
+</body>
+
+</html>

@@ -1,0 +1,1490 @@
+MultipleErrors: /Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/dist/vue-router.esm.js:2460:1: Unexpected reserved word export
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/dist/vue-router.esm.js:2460:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/dist/vue-router.esm.js:2460:8: Unexpected reserved word default
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/dist/vue-router.esm.js:2460:16: Semi-colon expected
+
+MultipleErrors: /Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:3:1: Unexpected reserved word import
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:3:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:3:59: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:4:1: Unexpected reserved word import
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:4:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:4:22: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:7:7: const variables must have an initializer
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:7:14: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:7:14: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:7:16: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:7:32: Unexpected token =
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:8:7: const variables must have an initializer
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:8:17: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:8:17: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:8:19: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:8:35: Unexpected token =
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:10:1: Unexpected reserved word export
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:10:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:10:8: Unexpected reserved word default
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:10:16: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:12:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:12:8: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:12:10: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:15:15: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:15:15: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:15:17: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:16:6: Unexpected token ,
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:19:7: Unexpected reserved word default
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:19:14: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:19:14: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:19:16: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:20:6: Unexpected token ,
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:22:11: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:22:11: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:22:13: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:23:12: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:23:12: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:23:14: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:24:16: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:24:16: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:24:18: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:25:21: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:25:21: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:25:23: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:26:10: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:26:10: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:26:12: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:28:7: Unexpected reserved word default
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:28:14: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:28:14: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:28:16: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:30:4: Unexpected token ,
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:31:12: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:31:14: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:31:22: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:31:22: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:31:24: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:78:11: const variables must have an initializer
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:78:15: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:78:15: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:78:17: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/link.js:102:5: Illegal return statement
+
+MultipleErrors: /Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/view.js:1:21: Unexpected reserved word import
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/view.js:1:28: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/view.js:1:42: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/view.js:3:1: Unexpected reserved word export
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/view.js:3:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/view.js:3:8: Unexpected reserved word default
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/view.js:3:16: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/view.js:5:13: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/view.js:5:13: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/view.js:5:15: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/view.js:6:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/view.js:6:8: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/view.js:6:10: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/view.js:9:7: Unexpected reserved word default
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/view.js:9:14: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/view.js:9:14: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/view.js:9:16: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/view.js:11:4: Unexpected token ,
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/components/view.js:12:49: Semi-colon expected
+
+MultipleErrors: /Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:3:1: Unexpected reserved word import
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:3:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:3:13: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:3:23: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:3:28: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:4:1: Unexpected reserved word import
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:4:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:4:29: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:5:1: Unexpected reserved word import
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:5:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:5:30: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:6:1: Unexpected reserved word import
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:6:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:6:29: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:7:1: Unexpected reserved word import
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:7:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:7:28: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:8:1: Unexpected reserved word import
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:8:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:8:32: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:9:1: Unexpected reserved word import
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:9:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:9:35: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:11:1: Unexpected reserved word export
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:11:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:11:13: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:12:14: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:12:37: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:12:39: Unexpected token Route
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:12:44: Unexpected token ,
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:12:61: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:12:63: Unexpected token Location
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:12:71: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:12:73: Unexpected token =>
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:12:81: Unexpected token ;
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:13:12: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:13:21: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:13:41: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:13:43: Unexpected token =>
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:13:50: Unexpected token ;
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:14:1: Unexpected token }
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:14:2: Unexpected token ;
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:16:1: Unexpected reserved word export
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:17:9: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:17:11: Unexpected token Array
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:17:16: Unexpected token <
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:17:17: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:17:29: Unexpected token ,
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:19:1: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:19:2: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:19:2: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:19:4: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:19:12: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:27:8: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:27:10: Unexpected token RawLocation
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:27:21: Unexpected token ,
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:28:18: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:28:20: Unexpected token Route
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:28:25: Unexpected token ,
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:29:20: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:29:22: Unexpected token Location
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:30:3: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:30:4: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:30:4: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:30:6: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:30:12: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:74:11: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:74:13: Unexpected token RouteRecord
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:74:24: Unexpected token ,
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:76:3: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:76:4: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:76:4: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:76:6: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:76:12: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:95:11: const variables must have an initializer
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:95:13: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:95:13: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:95:15: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:136:11: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:136:13: Unexpected token RouteRecord
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:136:24: Unexpected token ,
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:138:12: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:138:12: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:138:14: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:139:3: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:139:4: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:139:4: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:139:6: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:139:12: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:155:11: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:155:13: Unexpected token ?
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:156:13: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:156:13: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:156:15: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:157:20: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:157:22: Unexpected token Location
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:158:3: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:158:4: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:158:4: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:158:6: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:158:12: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:175:8: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:175:10: Unexpected token RouteRegExp
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:175:21: Unexpected token ,
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:177:9: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:177:9: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:177:11: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:178:1: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:178:2: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:178:2: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:178:4: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:178:12: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:198:33: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:198:35: Unexpected token string
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:198:41: Unexpected token ,
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:198:43: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:198:62: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:198:62: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:198:63: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:198:63: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:198:65: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:198:72: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:202:2: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:202:24: Unexpected token End of File
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:202:24: Unexpected token End of File
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:202:24: Unexpected token End of File
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:202:24: Unexpected token End of File
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:202:24: Unexpected token End of File
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:202:24: Unexpected token End of File
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:202:24: Unexpected token End of File
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:202:24: Unexpected token End of File
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:202:24: Unexpected token End of File
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-matcher.js:202:24: Unexpected token End of File
+
+MultipleErrors: /Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:3:1: Unexpected reserved word import
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:3:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:3:15: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:3:20: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:4:1: Unexpected reserved word import
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:4:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:4:27: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:5:1: Unexpected reserved word import
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:5:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:5:30: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:7:1: Unexpected reserved word export
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:7:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:8:9: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:8:11: Unexpected token Array
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:8:16: Unexpected token <
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:8:17: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:8:29: Unexpected token ,
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:9:15: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:9:17: Unexpected token Array
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:9:22: Unexpected token <
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:9:23: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:9:30: Unexpected token ,
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:10:14: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:10:16: Unexpected token Dictionary
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:10:26: Unexpected token <
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:10:27: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:10:39: Unexpected token ,
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:11:14: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:11:16: Unexpected token Dictionary
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:11:26: Unexpected token <
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:11:27: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:12:1: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:12:2: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:12:2: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:12:4: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:13:26: Unexpected token ;
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:14:35: Unexpected token ;
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:15:35: Unexpected token ;
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:18:9: const variables must have an initializer
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:18:17: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:18:17: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:18:19: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:18:33: Unexpected token =
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:18:35: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:19:9: const variables must have an initializer
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:19:16: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:19:16: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:19:18: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:19:42: Unexpected token =
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:19:44: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:20:9: const variables must have an initializer
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:20:16: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:20:16: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:20:18: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:20:42: Unexpected token =
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:20:44: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:43:11: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:43:13: Unexpected token Array
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:43:18: Unexpected token <
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:43:19: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:43:26: Unexpected token ,
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:44:35: Unexpected token ,
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:45:35: Unexpected token ,
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:47:10: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:47:12: Unexpected token RouteRecord
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:47:23: Unexpected token ,
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:48:11: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:48:13: Unexpected token string
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:49:1: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:49:3: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:61:9: const variables must have an initializer
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:61:15: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:61:15: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:61:17: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:139:33: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:139:35: Unexpected token string
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:139:41: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:139:42: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:139:42: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:139:44: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:139:56: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:142:11: const variables must have an initializer
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:142:15: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:142:15: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:142:17: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:151:29: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:151:31: Unexpected token string
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:151:37: Unexpected token ,
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:151:39: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:151:46: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:151:48: Unexpected token RouteRecord
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:151:59: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:151:60: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:151:60: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:151:62: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:151:69: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:158:2: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:158:24: Unexpected token End of File
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:158:24: Unexpected token End of File
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:158:24: Unexpected token End of File
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:158:24: Unexpected token End of File
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/create-route-map.js:158:24: Unexpected token End of File
+
+MultipleErrors: /Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/abstract.js:3:1: Unexpected reserved word import
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/abstract.js:3:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/abstract.js:3:13: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/abstract.js:3:20: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/abstract.js:3:25: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/abstract.js:4:1: Unexpected reserved word import
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/abstract.js:4:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/abstract.js:4:25: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/abstract.js:6:1: Unexpected reserved word export
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/abstract.js:6:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/abstract.js:7:8: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/abstract.js:7:16: Unexpected token ;
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/abstract.js:8:3: Unexpected token stack
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/abstract.js:8:8: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/abstract.js:8:10: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/abstract.js:8:22: Unexpected token ;
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/abstract.js:10:22: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/abstract.js:10:24: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/abstract.js:10:36: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/abstract.js:10:36: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/abstract.js:10:45: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/abstract.js:12:5: Unexpected token this
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/abstract.js:12:9: Unexpected token .
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/abstract.js:12:10: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/abstract.js:16:3: Unexpected token push
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/abstract.js:16:17: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/abstract.js:16:19: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/abstract.js:16:43: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/abstract.js:16:45: Unexpected token Function
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/abstract.js:16:53: Unexpected token ,
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/abstract.js:16:55: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/abstract.js:16:63: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/abstract.js:16:65: Unexpected token Function
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/abstract.js:16:73: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/abstract.js:16:75: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/abstract.js:24:20: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/abstract.js:24:22: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/abstract.js:24:46: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/abstract.js:24:48: Unexpected token Function
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/abstract.js:24:56: Unexpected token ,
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/abstract.js:24:58: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/abstract.js:24:66: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/abstract.js:24:68: Unexpected token Function
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/abstract.js:24:76: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/abstract.js:24:78: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/abstract.js:31:8: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/abstract.js:31:10: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/abstract.js:31:16: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/abstract.js:31:16: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/abstract.js:31:18: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/abstract.js:43:25: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/abstract.js:48:16: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/abstract.js:52:1: Unexpected token End of File
+
+MultipleErrors: /Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:3:1: Unexpected reserved word import
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:3:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:3:22: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:4:1: Unexpected reserved word import
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:4:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:4:13: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:4:20: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:4:25: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:5:1: Unexpected reserved word import
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:5:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:5:22: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:6:1: Unexpected reserved word import
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:6:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:6:27: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:7:1: Unexpected reserved word import
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:7:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:7:26: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:8:1: Unexpected reserved word import
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:8:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:8:36: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:10:1: Unexpected reserved word export
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:10:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:11:9: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:11:17: Unexpected token ;
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:12:3: Unexpected token base
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:12:7: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:12:9: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:14:12: Unexpected token ?
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:14:13: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:15:9: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:15:9: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:15:11: Unexpected token Route
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:15:16: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:15:18: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:15:18: Unexpected token =>
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:15:21: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:15:25: Unexpected token ;
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:17:28: Unexpected token ;
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:18:33: Unexpected token ;
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:19:28: Unexpected token ;
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:22:6: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:22:6: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:22:10: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:22:12: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:22:18: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:22:18: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:22:20: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:22:20: Unexpected token =>
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:22:23: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:22:27: Unexpected token ;
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:23:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:23:8: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:23:14: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:23:16: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:23:27: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:23:27: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:23:29: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:23:29: Unexpected token =>
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:23:32: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:23:36: Unexpected token ;
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:24:11: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:24:11: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:24:17: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:24:19: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:24:30: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:24:30: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:24:32: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:24:32: Unexpected token =>
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:24:35: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:24:39: Unexpected token ;
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:25:13: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:25:13: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:25:21: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:25:23: Unexpected token boolean
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:25:30: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:25:32: Unexpected token =>
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:25:35: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:25:39: Unexpected token ;
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:26:22: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:26:22: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:26:27: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:26:27: Unexpected token =>
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:26:30: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:28:22: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:28:24: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:28:36: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:28:36: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:28:45: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:29:9: Unexpected token this
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:29:10: Unexpected token router
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:29:9: Unexpected token .
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:30:5: Unexpected token this
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:40:13: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:40:15: Unexpected token Function
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:40:23: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:40:25: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:44:14: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:44:16: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:44:33: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:44:33: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:44:44: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:45:9: Unexpected token this
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:45:13: Unexpected token .
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:45:19: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:45:19: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:45:21: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:47:7: Unexpected reserved word else
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:47:12: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:55:3: Unexpected token onError
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:55:19: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:55:21: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:55:29: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:55:29: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:55:31: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:59:25: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:59:27: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:59:51: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:59:53: Unexpected token Function
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:59:61: Unexpected token ,
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:59:63: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:59:71: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:59:73: Unexpected token Function
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:59:81: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:59:83: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:82:27: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:82:29: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:82:46: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:82:46: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:82:48: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:82:66: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:82:68: Unexpected token Function
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:82:76: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:82:78: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:110:11: const variables must have an initializer
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:110:16: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:110:16: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:110:18: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:110:24: Unexpected token ?
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:110:25: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:110:42: Unexpected token =
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:110:45: Unexpected token ]
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:123:5: Unexpected token this
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:110:25: Invalid left-hand side expression in assignment
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:124:27: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:124:27: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:124:29: Unexpected token NavigationGuard
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:124:44: Unexpected token ,
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:124:46: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:124:50: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:124:50: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:124:52: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:124:52: Unexpected token =>
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:124:55: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:129:33: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:129:33: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:129:35: Unexpected token any
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:129:38: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:129:40: Unexpected token =>
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:129:43: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:152:10: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:180:21: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:180:23: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:180:28: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:180:28: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:180:30: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:190:10: Unexpected token normalizeBase
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:190:24: Unexpected token (
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:190:25: Unexpected token base
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:190:29: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:190:38: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:190:39: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:190:41: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:190:48: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:209:10: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:209:12: Unexpected token Array
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:209:17: Unexpected token <
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:209:18: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:209:30: Unexpected token ,
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:211:1: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:211:2: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:211:2: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:211:4: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:212:30: Unexpected token ,
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:213:32: Unexpected token ,
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:215:1: Unexpected token }
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:215:3: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:231:10: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:231:12: Unexpected token Array
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:231:17: Unexpected token <
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:231:18: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:231:30: Unexpected token ,
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:233:7: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:233:7: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:233:9: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:234:11: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:234:13: Unexpected token boolean
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:235:1: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:235:2: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:235:2: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:235:4: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:235:10: Unexpected token ?
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:235:11: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:236:9: Unexpected token const
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:236:16: Unexpected token =
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:236:18: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:248:6: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:248:8: Unexpected token Object
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:248:15: Unexpected token |
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:248:17: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:249:6: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:249:6: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:249:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:250:1: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:250:2: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:250:2: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:250:4: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:251:7: Unexpected token typeof
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:251:14: Unexpected token def
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:251:18: Unexpected token !==
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:251:22: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:251:32: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:251:32: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:251:34: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:258:1: Unexpected token function
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:258:10: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:258:41: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:258:43: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:258:61: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:258:62: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:258:62: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:258:64: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:258:70: Unexpected token ?
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:258:71: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:259:10: Unexpected token return
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:259:23: Unexpected token (
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:259:24: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:259:72: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:259:72: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:262:37: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:262:39: Unexpected token Array
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:262:44: Unexpected token <
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:262:45: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:262:57: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:262:58: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:262:58: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:262:60: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:262:66: Unexpected token ?
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:262:67: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:263:10: Unexpected token return
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:263:23: Unexpected token (
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:263:24: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:263:63: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:263:63: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:266:26: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:266:28: Unexpected token NavigationGuard
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:266:43: Unexpected token ,
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:266:45: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:266:55: Unexpected token ?
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:266:56: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:266:60: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:266:60: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:266:61: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:266:61: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:266:80: Unexpected token {
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:267:3: Unexpected reserved word if
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:267:17: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:275:12: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:275:14: Unexpected token Array
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:275:19: Unexpected token <
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:275:20: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:275:32: Unexpected token ,
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:276:23: Unexpected token ,
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:278:1: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:278:2: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:278:2: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:278:4: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:278:10: Unexpected token ?
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:278:11: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:279:10: Unexpected token return
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:279:23: Unexpected token (
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:279:24: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:281:4: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:281:4: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:285:8: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:285:10: Unexpected token NavigationGuard
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:285:25: Unexpected token ,
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:287:6: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:287:6: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:287:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:288:6: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:288:6: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:288:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:288:23: Unexpected token ,
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:290:1: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:290:2: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:290:2: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:290:4: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:290:20: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:309:5: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:309:7: Unexpected token any
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:309:10: Unexpected token ,
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:311:6: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:311:6: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:311:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:312:10: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:312:10: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:312:15: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:312:15: Unexpected token =>
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:312:18: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:313:1: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:313:3: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:323:41: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:323:43: Unexpected token Array
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:323:48: Unexpected token <
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:323:49: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:323:61: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:323:62: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:323:62: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:323:64: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:323:73: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:387:10: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:387:12: Unexpected token Array
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:387:17: Unexpected token <
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:387:18: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:387:30: Unexpected token ,
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:389:1: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:389:2: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:389:2: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:389:4: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:389:10: Unexpected token ?
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:389:11: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:390:10: Unexpected token return
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:390:17: Unexpected token (
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:390:18: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:396:5: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:396:5: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:420:2: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:420:24: Unexpected token End of File
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:420:24: Unexpected token End of File
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:420:24: Unexpected token End of File
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:420:24: Unexpected token End of File
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:420:24: Unexpected token End of File
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:420:24: Unexpected token End of File
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:420:24: Unexpected token End of File
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/base.js:420:24: Unexpected token End of File
+
+MultipleErrors: /Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:3:1: Unexpected reserved word import
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:3:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:3:13: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:3:20: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:3:25: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:4:1: Unexpected reserved word import
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:4:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:4:25: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:5:1: Unexpected reserved word import
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:5:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:5:27: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:6:1: Unexpected reserved word import
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:6:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:6:29: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:8:1: Unexpected reserved word export
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:8:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:9:22: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:9:24: Unexpected token Router
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:9:30: Unexpected token ,
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:9:32: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:9:38: Unexpected token ?
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:9:39: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:9:55: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:9:55: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:9:57: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:9:64: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:9:64: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:9:66: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:20:21: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:31:17: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:31:19: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:31:43: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:31:45: Unexpected token Function
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:31:53: Unexpected token ,
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:31:55: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:31:63: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:31:65: Unexpected token Function
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:31:73: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:31:75: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:38:20: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:38:22: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:38:46: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:38:48: Unexpected token Function
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:38:56: Unexpected token ,
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:38:58: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:38:66: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:38:68: Unexpected token Function
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:38:76: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:38:78: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:45:8: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:45:10: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:45:16: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:45:16: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:45:18: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:49:19: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:49:21: Unexpected token boolean
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:49:28: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:49:30: Unexpected token {
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:71:24: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:71:34: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:80:1: Unexpected reserved word export
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:80:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:80:27: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:80:36: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:98:1: Unexpected token End of File
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/hash.js:98:1: Unexpected token End of File
+
+MultipleErrors: /Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:3:1: Unexpected reserved word import
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:3:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:3:13: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:3:20: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:3:25: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:4:1: Unexpected reserved word import
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:4:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:4:25: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:5:1: Unexpected reserved word import
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:5:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:5:27: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:6:1: Unexpected reserved word import
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:6:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:6:43: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:7:1: Unexpected reserved word import
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:7:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:7:41: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:9:1: Unexpected reserved word export
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:9:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:10:22: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:10:24: Unexpected token Router
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:10:30: Unexpected token ,
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:10:32: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:10:38: Unexpected token ?
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:10:39: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:10:45: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:10:45: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:10:47: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:28:8: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:28:10: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:28:16: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:28:16: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:28:18: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:32:17: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:32:19: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:32:43: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:32:45: Unexpected token Function
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:32:53: Unexpected token ,
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:32:55: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:32:63: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:32:65: Unexpected token Function
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:32:73: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:32:75: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:41:20: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:41:22: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:41:46: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:41:48: Unexpected token Function
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:41:56: Unexpected token ,
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:41:58: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:41:66: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:41:68: Unexpected token Function
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:41:76: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:41:78: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:50:19: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:50:21: Unexpected token boolean
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:50:28: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:50:30: Unexpected token {
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:57:24: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:57:33: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:62:8: Unexpected token function
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:62:29: Unexpected token (
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:62:30: Unexpected token base
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:62:34: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:62:36: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:62:42: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:62:42: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:62:43: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:62:43: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:62:45: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:62:52: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:69:1: Unexpected token End of File
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/history/html5.js:69:1: Unexpected token End of File
+
+MultipleErrors: /Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/install.js:1:1: Unexpected reserved word import
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/install.js:1:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/install.js:1:13: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/install.js:1:18: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/install.js:2:1: Unexpected reserved word import
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/install.js:2:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/install.js:2:13: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/install.js:2:18: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/install.js:4:1: Unexpected reserved word export
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/install.js:4:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/install.js:6:1: Unexpected reserved word export
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/install.js:6:8: Semi-colon expected
+
+MultipleErrors: /Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/async.js:3:1: Unexpected reserved word export
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/async.js:3:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/async.js:3:32: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/async.js:3:34: Unexpected token Array
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/async.js:3:39: Unexpected token <
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/async.js:3:57: Unexpected token ,
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/async.js:3:59: Unexpected token fn
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/async.js:3:61: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/async.js:3:63: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/async.js:3:75: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/async.js:3:75: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/async.js:3:77: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/async.js:3:85: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/async.js:3:85: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/async.js:3:87: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/async.js:19:1: Unexpected token End of File
+
+MultipleErrors: /Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/dom.js:3:1: Unexpected reserved word export
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/dom.js:3:8: Semi-colon expected
+
+MultipleErrors: /Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/location.js:3:1: Unexpected reserved word import
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/location.js:3:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/location.js:3:13: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/location.js:3:23: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/location.js:3:28: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/location.js:4:1: Unexpected reserved word import
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/location.js:4:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/location.js:4:40: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/location.js:5:1: Unexpected reserved word import
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/location.js:5:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/location.js:5:30: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/location.js:6:1: Unexpected reserved word import
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/location.js:6:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/location.js:6:28: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/location.js:7:1: Unexpected reserved word import
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/location.js:7:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/location.js:7:22: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/location.js:9:1: Unexpected reserved word export
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/location.js:9:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/location.js:10:6: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/location.js:10:8: Unexpected token RawLocation
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/location.js:10:19: Unexpected token ,
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/location.js:11:12: Unexpected token ?
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/location.js:11:13: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/location.js:12:9: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/location.js:12:9: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/location.js:12:19: Unexpected token ,
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/location.js:13:9: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/location.js:13:9: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/location.js:14:1: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/location.js:14:2: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/location.js:14:4: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/location.js:14:13: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/location.js:15:11: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/location.js:15:11: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/location.js:15:13: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/location.js:25:11: const variables must have an initializer
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/location.js:25:17: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/location.js:25:17: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/location.js:25:19: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/location.js:70:2: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/location.js:70:24: Unexpected token End of File
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/location.js:70:24: Unexpected token End of File
+
+MultipleErrors: /Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/params.js:3:1: Unexpected reserved word import
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/params.js:3:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/params.js:3:22: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/params.js:4:1: Unexpected reserved word import
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/params.js:4:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/params.js:4:15: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/params.js:4:20: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/params.js:6:7: const variables must have an initializer
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/params.js:6:25: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/params.js:6:25: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/params.js:6:27: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/params.js:7:7: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/params.js:7:16: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/params.js:7:16: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/params.js:7:18: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/params.js:8:3: Unexpected token =
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/params.js:8:5: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/params.js:10:1: Unexpected reserved word export
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/params.js:10:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/params.js:11:7: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/params.js:11:9: Unexpected token string
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/params.js:11:15: Unexpected token ,
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/params.js:12:11: Unexpected token ?
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/params.js:12:12: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/params.js:13:11: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/params.js:13:11: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/params.js:13:13: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/params.js:14:1: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/params.js:14:2: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/params.js:14:2: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/params.js:14:4: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/params.js:14:11: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/params.js:28:2: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/params.js:28:24: Unexpected token End of File
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/params.js:28:24: Unexpected token End of File
+
+MultipleErrors: /Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/path.js:3:1: Unexpected reserved word export
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/path.js:3:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/path.js:4:11: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/path.js:4:13: Unexpected token string
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/path.js:4:19: Unexpected token ,
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/path.js:6:10: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/path.js:6:12: Unexpected token boolean
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/path.js:7:1: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/path.js:7:2: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/path.js:7:2: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/path.js:7:4: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/path.js:7:11: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/path.js:45:1: Unexpected reserved word export
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/path.js:45:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/path.js:45:32: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/path.js:45:34: Unexpected token string
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/path.js:45:40: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/path.js:45:41: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/path.js:45:41: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/path.js:45:43: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/path.js:72:1: Unexpected reserved word export
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/path.js:72:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/path.js:72:32: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/path.js:72:34: Unexpected token string
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/path.js:72:40: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/path.js:72:41: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/path.js:72:41: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/path.js:72:43: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/path.js:72:50: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/path.js:75:1: Unexpected token End of File
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/path.js:75:1: Unexpected token End of File
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/path.js:75:1: Unexpected token End of File
+
+MultipleErrors: /Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/push-state.js:3:1: Unexpected reserved word import
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/push-state.js:3:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/push-state.js:3:27: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/push-state.js:4:1: Unexpected reserved word import
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/push-state.js:4:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/push-state.js:4:36: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/push-state.js:6:1: Unexpected reserved word export
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/push-state.js:6:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/push-state.js:26:9: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/push-state.js:26:9: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/push-state.js:26:11: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/push-state.js:28:19: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/push-state.js:28:28: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/push-state.js:32:1: Unexpected reserved word export
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/push-state.js:32:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/push-state.js:36:1: Unexpected reserved word export
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/push-state.js:36:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/push-state.js:36:33: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/push-state.js:36:35: Unexpected token string
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/push-state.js:36:41: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/push-state.js:36:43: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/push-state.js:40:1: Unexpected reserved word export
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/push-state.js:40:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/push-state.js:40:31: Unexpected token ?
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/push-state.js:40:32: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/push-state.js:40:50: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/push-state.js:40:52: Unexpected token boolean
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/push-state.js:40:59: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/push-state.js:40:61: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/push-state.js:57:1: Unexpected reserved word export
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/push-state.js:57:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/push-state.js:57:34: Unexpected token ?
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/push-state.js:57:35: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/push-state.js:57:43: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/push-state.js:57:43: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/push-state.js:57:45: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/push-state.js:60:1: Unexpected token End of File
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/push-state.js:60:1: Unexpected token End of File
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/push-state.js:60:1: Unexpected token End of File
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/push-state.js:60:1: Unexpected token End of File
+
+MultipleErrors: /Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/query.js:3:1: Unexpected reserved word import
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/query.js:3:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/query.js:3:22: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/query.js:18:1: Unexpected reserved word export
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/query.js:18:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/query.js:19:8: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/query.js:19:10: Unexpected token ?
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/query.js:20:13: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/query.js:20:13: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/query.js:20:15: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/query.js:20:34: Unexpected token =
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/query.js:20:36: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/query.js:20:38: Unexpected token ,
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/query.js:21:16: Unexpected token ?
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/query.js:21:17: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/query.js:22:1: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/query.js:22:2: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/query.js:22:2: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/query.js:22:4: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/query.js:23:9: Unexpected token const
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/query.js:23:15: Unexpected token =
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/query.js:23:17: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/query.js:38:27: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/query.js:38:29: Unexpected token string
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/query.js:38:35: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/query.js:38:36: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/query.js:38:36: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/query.js:38:38: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/query.js:39:9: Unexpected token const
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/query.js:39:13: Unexpected token =
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/query.js:39:15: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/query.js:66:1: Unexpected reserved word export
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/query.js:66:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/query.js:66:36: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/query.js:66:38: Unexpected token Dictionary
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/query.js:66:48: Unexpected token <
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/query.js:66:49: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/query.js:66:56: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/query.js:66:57: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/query.js:66:57: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/query.js:66:59: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/query.js:66:66: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/query.js:98:2: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/query.js:98:24: Unexpected token End of File
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/query.js:98:24: Unexpected token End of File
+
+MultipleErrors: /Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:3:1: Unexpected reserved word import
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:3:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:3:13: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:3:23: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:3:28: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:4:1: Unexpected reserved word import
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:4:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:4:32: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:8:1: Unexpected reserved word export
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:8:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:9:9: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:9:11: Unexpected token ?
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:10:11: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:10:11: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:10:13: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:11:18: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:11:29: Unexpected token ,
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:12:10: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:12:12: Unexpected token VueRouter
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:13:1: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:13:10: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:15:9: const variables must have an initializer
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:15:14: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:15:14: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:15:16: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:32:1: Unexpected reserved word export
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:32:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:36:29: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:36:31: Unexpected token ?
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:36:43: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:36:43: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:36:44: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:36:44: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:36:46: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:37:9: Unexpected token const
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:37:13: Unexpected token =
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:37:16: Unexpected token ]
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:38:3: Unexpected token while
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:38:18: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:48:2: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:48:11: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:53:1: Unexpected reserved word export
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:53:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:53:31: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:53:33: Unexpected token Route
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:53:38: Unexpected token ,
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:53:40: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:53:43: Unexpected token ?
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:53:44: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:53:49: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:53:49: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:53:50: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:53:50: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:53:52: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:53:60: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:76:40: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:76:50: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:85:1: Unexpected reserved word export
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:85:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:85:41: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:85:43: Unexpected token Route
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:85:48: Unexpected token ,
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:85:50: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:85:63: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:85:63: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:85:64: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:85:64: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:85:66: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:85:74: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:95:32: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:95:34: Unexpected token Dictionary
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:95:44: Unexpected token <
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:95:45: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:95:52: Unexpected token ,
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:95:54: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:95:80: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:95:81: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:95:81: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:95:83: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:95:91: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:103:1: Unexpected token End of File
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:103:1: Unexpected token End of File
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:103:1: Unexpected token End of File
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:103:1: Unexpected token End of File
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:103:1: Unexpected token End of File
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/route.js:103:1: Unexpected token End of File
+
+MultipleErrors: /Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:3:1: Unexpected reserved word import
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:3:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:3:13: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:3:20: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:3:25: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:4:1: Unexpected reserved word import
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:4:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:4:24: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:5:1: Unexpected reserved word import
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:5:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:5:42: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:9:1: Unexpected reserved word export
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:9:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:18:1: Unexpected reserved word export
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:18:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:19:9: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:19:11: Unexpected token Router
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:19:17: Unexpected token ,
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:21:7: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:21:7: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:21:9: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:22:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:22:8: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:22:10: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:23:1: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:23:3: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:62:1: Unexpected reserved word export
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:62:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:72:30: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:72:32: Unexpected token ?
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:72:33: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:72:40: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:79:32: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:79:34: Unexpected token Element
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:79:41: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:79:42: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:79:42: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:79:44: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:79:51: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:80:9: const variables must have an initializer
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:80:14: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:80:14: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:80:16: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:89:30: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:89:32: Unexpected token Object
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:89:38: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:89:39: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:89:39: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:89:41: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:89:49: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:93:32: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:93:34: Unexpected token Object
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:93:40: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:93:41: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:93:41: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:93:43: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:93:50: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:100:21: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:100:23: Unexpected token any
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:100:26: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:100:27: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:100:27: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:100:29: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:100:37: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:104:2: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:104:24: Unexpected token End of File
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:104:24: Unexpected token End of File
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:104:24: Unexpected token End of File
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:104:24: Unexpected token End of File
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:104:24: Unexpected token End of File
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:104:24: Unexpected token End of File
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/scroll.js:104:24: Unexpected token End of File
+
+MultipleErrors: /Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/warn.js:3:1: Unexpected reserved word export
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/warn.js:3:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/warn.js:3:34: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/warn.js:3:36: Unexpected token any
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/warn.js:3:39: Unexpected token ,
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/warn.js:3:41: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/warn.js:3:56: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/warn.js:3:56: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/warn.js:3:58: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/warn.js:9:1: Unexpected reserved word export
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/warn.js:9:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/warn.js:9:32: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/warn.js:9:34: Unexpected token any
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/warn.js:9:37: Unexpected token ,
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/warn.js:9:39: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/warn.js:9:54: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/warn.js:9:54: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/warn.js:9:56: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/warn.js:15:2: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/warn.js:15:24: Unexpected token End of File
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/warn.js:15:24: Unexpected token End of File
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/util/warn.js:15:24: Unexpected token End of File
+
+MultipleErrors: /Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:3:1: Unexpected reserved word import
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:3:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:3:25: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:4:1: Unexpected reserved word import
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:4:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:4:23: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:5:1: Unexpected reserved word import
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:5:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:5:24: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:6:1: Unexpected reserved word import
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:6:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:6:27: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:7:1: Unexpected reserved word import
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:7:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:7:27: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:8:1: Unexpected reserved word import
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:8:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:8:31: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:9:1: Unexpected reserved word import
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:9:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:9:35: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:10:1: Unexpected reserved word import
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:10:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:10:35: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:12:1: Unexpected reserved word import
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:12:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:12:29: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:13:1: Unexpected reserved word import
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:13:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:13:30: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:14:1: Unexpected reserved word import
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:14:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:14:33: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:16:1: Unexpected reserved word import
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:16:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:16:13: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:16:30: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:18:1: Unexpected reserved word export
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:18:8: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:18:8: Unexpected reserved word default
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:18:16: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:19:17: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:19:19: Unexpected token (
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:19:20: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:19:22: Unexpected token =>
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:19:25: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:19:29: Unexpected token ;
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:20:3: static is a reserved identifier
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:23:19: Unexpected token ;
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:25:28: Unexpected token ;
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:31:22: Unexpected token ?
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:31:23: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:31:39: Unexpected token ;
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:32:23: Unexpected token ?
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:32:24: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:32:40: Unexpected token ;
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:33:21: Unexpected token ?
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:33:22: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:33:42: Unexpected token ;
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:35:23: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:35:25: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:35:43: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:35:43: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:35:45: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:72:8: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:72:10: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:73:13: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:73:15: Unexpected token Route
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:73:20: Unexpected token ,
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:74:20: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:74:22: Unexpected token Location
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:75:3: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:75:4: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:75:4: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:75:6: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:75:12: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:79:7: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:79:22: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:79:22: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:79:31: Unexpected token {
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:80:5: Unexpected reserved word return
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:80:12: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:83:12: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:83:14: Unexpected token any
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:83:46: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:83:48: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:121:17: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:121:19: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:121:27: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:121:27: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:121:28: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:121:28: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:121:30: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:121:39: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:125:20: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:125:22: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:125:30: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:125:30: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:125:31: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:125:31: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:125:33: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:125:42: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:129:16: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:129:18: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:129:26: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:129:26: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:129:27: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:129:27: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:129:29: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:129:38: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:133:14: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:133:16: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:133:34: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:133:36: Unexpected token Function
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:133:44: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:133:46: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:137:19: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:137:21: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:137:29: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:137:29: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:137:31: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:141:17: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:141:19: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:141:43: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:141:45: Unexpected token Function
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:141:53: Unexpected token ,
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:141:55: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:141:63: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:141:65: Unexpected token Function
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:141:73: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:141:75: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:145:20: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:145:22: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:145:46: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:145:48: Unexpected token Function
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:145:56: Unexpected token ,
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:145:58: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:145:66: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:145:68: Unexpected token Function
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:145:76: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:145:78: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:149:8: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:149:10: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:149:16: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:149:16: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:149:18: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:153:11: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:157:14: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:161:28: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:161:30: Unexpected token RawLocation
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:161:41: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:161:42: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:161:44: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:162:11: Unexpected token const
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:162:17: Unexpected token =
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:162:19: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:176:7: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:176:9: Unexpected token RawLocation
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:176:20: Unexpected token ,
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:177:13: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:177:15: Unexpected token Route
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:177:20: Unexpected token ,
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:178:12: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:178:14: Unexpected token boolean
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:179:3: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:179:4: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:179:4: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:179:6: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:181:10: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:181:10: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:181:12: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:182:9: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:182:9: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:182:11: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:184:17: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:184:17: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:184:19: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:185:13: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:185:13: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:185:15: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:207:20: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:207:22: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:207:40: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:207:42: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:215:10: Unexpected token registerHook
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:215:23: Unexpected token (
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:215:24: Unexpected token list
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:215:28: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:215:30: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:215:40: Unexpected token ,
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:215:42: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:215:54: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:215:54: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:215:55: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:215:55: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:215:57: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:215:66: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:223:26: Unexpected token :
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:223:28: Unexpected token string
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:223:34: Unexpected token ,
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:223:36: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:223:58: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:223:58: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:223:60: Semi-colon expected
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:235:2: Unexpected token )
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:235:24: Unexpected token End of File
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:235:24: Unexpected token End of File
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:235:24: Unexpected token End of File
+/Users/panliwei/.jspm/packages/npm/vue-router@2.5.2/src/index.js:235:24: Unexpected token End of File
