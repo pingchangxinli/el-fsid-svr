@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: eu.hinsch:spring-boot-actuator-logview:0.2.12">
+    <CLASSES>
+      <root url="jar://F:/Gradle/.gradle/caches/modules-2/files-2.1/eu.hinsch/spring-boot-actuator-logview/0.2.12/b0538e396d4fe44a1aedbc974d928ea64bf90e5c/spring-boot-actuator-logview-0.2.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://F:/Gradle/.gradle/caches/modules-2/files-2.1/eu.hinsch/spring-boot-actuator-logview/0.2.12/4413c212c43d70a5aae1fb6b0c5a7a26f110b968/spring-boot-actuator-logview-0.2.12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

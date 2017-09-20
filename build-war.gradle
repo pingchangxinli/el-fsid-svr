@@ -1,0 +1,17 @@
+plugins {
+    id 'org.springframework.boot' version '1.5.3.RELEASE'
+
+    id 'war' // for Building WAR
+}
+
+configurations {
+    providedRuntime
+}
+
+war {
+    baseName = 'elfsid'
+    version = '1.0.0'
+}
+
+// Dependencies
+apply from: 'build-deps.gradle'

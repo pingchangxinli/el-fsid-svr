@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.subethamail:subethasmtp-smtp:1.2">
+    <CLASSES>
+      <root url="jar://F:/Gradle/.gradle/caches/modules-2/files-2.1/org.subethamail/subethasmtp-smtp/1.2/5ec3dc5630ec6d52b2b9ab52c1fe3bdb2e605b45/subethasmtp-smtp-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://F:/Gradle/.gradle/caches/modules-2/files-2.1/org.subethamail/subethasmtp-smtp/1.2/592c3cb819b66d0c63b9ede6605eeb74754ff8aa/subethasmtp-smtp-1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

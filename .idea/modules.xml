@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/el-fsid-svr.iml" filepath="$PROJECT_DIR$/.idea/modules/el-fsid-svr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/el-fsid-svr_main.iml" filepath="$PROJECT_DIR$/.idea/modules/el-fsid-svr_main.iml" group="el-fsid-svr" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/el-fsid-svr_test.iml" filepath="$PROJECT_DIR$/.idea/modules/el-fsid-svr_test.iml" group="el-fsid-svr" />
+    </modules>
+  </component>
+</project>

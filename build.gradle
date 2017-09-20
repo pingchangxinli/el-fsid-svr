@@ -1,0 +1,57 @@
+buildscript {
+    repositories {
+        maven { url mavenUrl }
+    }
+}
+
+plugins {
+    id 'org.springframework.boot' version '1.5.3.RELEASE'
+
+    id 'idea' // for IntelliJ IDEA
+    id 'groovy' // for Spock Test Framework
+    id 'findbugs' // for Code Static Analysis
+}
+
+bootRun {
+    addResources = true
+
+    environment 'CATALINA_HOME', '.'
+    environment 'FSID_SVR_ID', 'elfsiddev'
+    environment 'FSID_LOG_PROFILE', 'dev'
+    environment 'FSID_APP_PROFILE', 'dev'
+}
+
+// FindBug
+tasks.withType(FindBugs) {
+    reports {
+        xml.enabled = false
+        html.enabled = true
+    }
+}
+findbugs {
+    effort = 'max'
+    reportLevel = 'high'
+    ignoreFailures = true
+}
+
+// Dependencies
+apply from: 'build-deps.gradle'
+
+dependencies {
+
+    /*-------------+
+    |   DEV. TOOL  |
+    +=============*/
+
+    // Runtime Hot-Swap for task:bootRun
+    runtime group: 'org.springframework.boot', name: 'spring-boot-devtools'
+
+    runtime group: 'com.oracle', name: 'ojdbc7', version: '12.1.0.2.0'
+    /*------------+
+    |   TESTING   |
+    +============*/
+
+    // Spock Test Framework with Spring
+    testCompile group: 'org.springframework.boot', name: 'spring-boot-starter-test'
+    testCompile group: 'org.spockframework', name: 'spock-spring', version: '1.1-groovy-2.4'
+}
