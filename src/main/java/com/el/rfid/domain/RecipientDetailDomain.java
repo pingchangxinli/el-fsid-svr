@@ -6,6 +6,7 @@ import java.io.Serializable;
 
 @Data
 public class RecipientDetailDomain implements Serializable {
+    private Long id;
     private String orderId;//订单号
     private String orderType;//订单类型
     private String orderCompany;//订单公司
@@ -13,7 +14,8 @@ public class RecipientDetailDomain implements Serializable {
     private String storeHouse;//分布场所
     private String orderAmount;//订购数量
     private String unit;//计量单位
-    private String storeHouseLocation;
+    private String unit1;//商品库存计量单位
+    private String storeHouseLocation;//库位
     private String batchNumber;//批次号
     private String supplierCode;//供应商编号
     private String itemCode;//商品编码

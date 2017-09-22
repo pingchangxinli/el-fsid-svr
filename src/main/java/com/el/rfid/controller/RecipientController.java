@@ -25,7 +25,7 @@ public class RecipientController {
 
 
     /**
-     * 获取待收货订单
+     * 获取JDE待收货订单
      *
      * @param recipientDomain
      * @return
@@ -37,7 +37,7 @@ public class RecipientController {
     }
 
     /**
-     * 获取待收货订单明细
+     * 获取JDE待收货订单明细
      *
      * @param recipientDetailDomain
      * @return
@@ -46,6 +46,30 @@ public class RecipientController {
     public List<RecipientDetailDomain> getUnrecipientDetail(RecipientDetailDomain recipientDetailDomain) {
         log.debug("[RECIPIENT-DETAIL-controller] get recipientDetail: {}", recipientDetailDomain);
         return recipientService.getUnrecipientDetail(recipientDetailDomain);
+    }
+
+    /**
+     * 将JDE中待收款明细更新到local待收货明细
+     *
+     * @param recipientDetailDomain
+     * @return
+     */
+    @RequestMapping(value = "/recipientJdeToLocal", method = RequestMethod.POST)
+    public int recipientJdeToLocal(@RequestBody RecipientDetailDomain recipientDetailDomain) {
+        int result = recipientService.recipientJdeToLocal(recipientDetailDomain);
+        return result;
+    }
+
+    /**
+     * 获取local待收货订单明细
+     *
+     * @param recipientDetailDomain
+     * @return
+     */
+    @RequestMapping(value = "/localRecipientDetail", method = RequestMethod.GET)
+    public List<RecipientDetailDomain> getLocalUnrecipientDetail(RecipientDetailDomain recipientDetailDomain) {
+        log.debug("[RECIPIENT-DETAIL-controller] get recipientDetail: {}", recipientDetailDomain);
+        return recipientService.getLocalUnrecipientDetail(recipientDetailDomain);
     }
 
 }
