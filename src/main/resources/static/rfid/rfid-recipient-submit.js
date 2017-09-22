@@ -1,5 +1,5 @@
 import Vue from 'vue/dist/vue'
-import template from './rfid-recipient-detail.html!text'
+import template from './rfid-recipient-submit.html!text'
 import axios from 'axios'
 import $ from 'jquery'
 
@@ -29,7 +29,7 @@ axios.get('/localRecipientDetail?'+param)
       }
     }
     $('#recipient-detail-result tbody').empty();
-    for(let d in data){
+   /* for(let d in data){
       let orderId = !data[d].orderId ? "" : data[d].orderId;//订单号
       let orderType = !data[d].orderType ? "" : data[d].orderType;//订单类型
       let orderCompany = !data[d].orderCompany ? "" : data[d].orderCompany;//订单公司
@@ -60,12 +60,22 @@ axios.get('/localRecipientDetail?'+param)
         '<td class="pa3">'+orderAmount+'</td>'+
         '</tr>';
       $('#recipient-detail-result tbody').append(trs);
-    }
+    }*/
   })
   .catch(function (error) {
     console.log(error);
   });
 
+
+let elButtonSubmit = {
+  template: '<input class="b ph3 pv2 input-reset ba b--black bg-transparent grow pointer f6 dib" type="button" value="提交收货" @click="submitBtn">',
+    methods: {
+      submitBtn : function(){
+      alert("提交收货~~~~暂时不提交到后台");
+        //document.location.href = "rfid-recipient.html";
+      }
+    }
+};
 
 let elButtonReturn = {
   template: '<input class="b ph3 pv2 input-reset ba b--black bg-transparent grow pointer f6 dib" type="button" value="返回上一页" @click="returnBtn">',
@@ -79,6 +89,7 @@ let elButtonReturn = {
 new Vue({
   el: '#button-div',
   components:{
+    'el-button-submit' : elButtonSubmit,
     'el-button-return' : elButtonReturn
   }
 })

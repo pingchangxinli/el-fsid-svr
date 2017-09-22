@@ -2,13 +2,13 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>RFID标签收货明细</title>
+  <title>RFID标签收货提交</title>
   <link rel="stylesheet" href="https://unpkg.com/tachyons/css/tachyons.min.css">
 </head>
 <body class="w-100 sans-serif">
 <main class="bg-white black-70">
   <div class="ph3 ph5-ns">
-    <h4 class="f6 mb2">RFID标签收货明细</h4>
+    <h4 class="f6 mb2">RFID标签收货提交</h4>
   </div>
   <section class="cf w-100 f6">
     <div class="mw9 center ph3-ns">
@@ -32,6 +32,7 @@
                   </div>
                 </fieldset>
                 <div id="button-div">
+                  <el-button-submit></el-button-submit>
                   <el-button-return></el-button-return>
                 </div>
               </form>
@@ -50,19 +51,19 @@
         <thead>
         <tr class="stripe-dark">
           <th class="fw6 tl pa3 bg-white">选择</th>
-          <th class="fw6 tl pa3 bg-white">订单号</th>
-          <th class="fw6 tl pa3 bg-white">订单类型</th>
-          <th class="fw6 tl pa3 bg-white">订单公司</th>
-          <th class="fw6 tl pa3 bg-white">行号</th>
-          <th class="fw6 tl pa3 bg-white">上一个状态</th>
-          <th class="fw6 tl pa3 bg-white">下一个状态</th>
-          <th class="fw6 tl pa3 bg-white">供应商号</th>
-          <th class="fw6 tl pa3 bg-white">供应商描述</th>
-          <th class="fw6 tl pa3 bg-white">发运至</th>
-          <th class="fw6 tl pa3 bg-white">商品编码</th>
-          <th class="fw6 tl pa3 bg-white">未收数量</th>
+          <th class="fw6 tl pa3 bg-white">EPC</th>
+          <th class="fw6 tl pa3 bg-white">TID</th>
+          <th class="fw6 tl pa3 bg-white">物料编码</th>
+          <th class="fw6 tl pa3 bg-white">物料描述</th>
+          <th class="fw6 tl pa3 bg-white">规格型号</th>
+          <th class="fw6 tl pa3 bg-white">批号LOT</th>
+          <th class="fw6 tl pa3 bg-white">数量</th>
           <th class="fw6 tl pa3 bg-white">计量单位</th>
-          <th class="fw6 tl pa3 bg-white">订购数据</th>
+          <th class="fw6 tl pa3 bg-white">注册证号</th>
+          <th class="fw6 tl pa3 bg-white">生产日期</th>
+          <th class="fw6 tl pa3 bg-white">失效日期</th>
+          <th class="fw6 tl pa3 bg-white">行号</th>
+          <th class="fw6 tl pa3 bg-white">备注</th>
         </tr>
         </thead>
         <tbody class="lh-copy">
@@ -73,6 +74,6 @@
 </div>
 <script src="../jspm_packages/system.js"></script>
 <script src="../config.js"></script>
-<script>System.import('./rfid-recipient-detail.js')</script>
+<script>System.import('./rfid-recipient-submit.js')</script>
 </body>
 </html>

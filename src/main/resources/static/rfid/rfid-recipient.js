@@ -94,6 +94,8 @@ let elButtonBegin = {
 
         let checkedRadio = $('input[type="radio"]:checked');
         let checkedRadioLen = checkedRadio.length;
+        let unitFlag = false;//默认计量单位相等
+        let storeHouseLocationFlag = false;//默认库位不为空
         if(checkedRadioLen == 1){
           var r = confirm("是否确定开始收货？")
           if(!r){
@@ -102,12 +104,46 @@ let elButtonBegin = {
           let orderId = checkedRadio.parents().siblings('td[name="orderId"]').html();
           let orderType = checkedRadio.parents().siblings('td[name="orderType"]').html();
           let orderCompany = checkedRadio.parents().siblings('td[name="orderCompany"]').html();
-          alert("订单号为："+orderId+"，订单类型为："+orderType+"，订单公司为："+orderCompany+",开始收货啦");
+          axios.post('/recipientJdeToLocal',{orderId:orderId,orderType:orderType,orderCompany:orderCompany})
+          .then(function (response) {
+          console.log('==============>>jde待收货明细同步到本地待收货明细',response);
+          if(response.data != 1){
+             alert("该订单没有明细，请重新选择");
+             return;
+          }
+          axios.get('/localRecipientDetail',{orderId:orderId,orderType:orderType,orderCompany:orderCompany})
+            .then(function (response) {
+              var data = response.data;
+              for(let d in data){
+                if(!data[d].storeHouseLocation){//判断明细行库位是否为空
+                  storeHouseLocationFlag = true;
+                }
+                if(data[d].unit != data[d].unit1){//判断采购单明细行上的UOM计量单位是否等于该商品的库存计量单位
+                  unitFlag = true;
+                }
+              }
+            })
+            .catch(function (error) {
+              console.log(error);
+            });
+          if(!storeHouseLocationFlag){
+            alert("该订单明细行存在库位为空的数据，不允许开始收货");
+            return;
+          }
+          if(!unitFlag){
+            alert("该订单明细行存在UOM计量单位不等于该商品的库存计量单位，不允许开始收货");
+            return;
+          }
+          document.location.href = "rfid-recipient-submit.html?orderId="+orderId+"&orderType="+orderType+"&orderCompany="+orderCompany;
+
+          }).catch(function (error) {
+                    console.log(error);
+            });
         }else if(checkedRadioLen == 0){
-          alert("请选择需要替换的标签");
+          alert("请选择一条订单");
           return false;
         }else if(checkedRadioLen > 1){
-          alert("请勿多选标签！");
+          alert("请勿多选订单！");
           return false;
         }
 
